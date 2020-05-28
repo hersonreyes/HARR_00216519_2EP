@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e06c85c5-c7be-4444-b6e5-7f6f37b283af" name="Default Changelist" comment="Falta LiveChart si lo haces puerco" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FormNoAdmon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FormAdmon.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteOrder.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FormAdmon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewOrder.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewOrdersNoAdmin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AllUsers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AllUsers.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EmptyTextBoxes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddBusiness.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddBusiness.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogIn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteBusiness.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteBusiness.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddProduct.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddProduct.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteDesigner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteDesigner.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewOrders.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewOrders.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddAdress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddAdress.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifyAdress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifyAdress.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifyUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifyUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewOrder.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBConnection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteAdress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FormNoAdmon.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteAdress.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewOrdersNoAdmin.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FormAdmon.Designer.cs" />
+        <option value="$PROJECT_DIR$/FormNoAdmon.Designer.cs" />
+        <option value="$PROJECT_DIR$/DBConnection.cs" />
+        <option value="$PROJECT_DIR$/NewUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/DeleteUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/AllUsers.Designer.cs" />
+        <option value="$PROJECT_DIR$/AddBusiness.Designer.cs" />
+        <option value="$PROJECT_DIR$/DeleteBusiness.Designer.cs" />
+        <option value="$PROJECT_DIR$/AddProduct.Designer.cs" />
+        <option value="$PROJECT_DIR$/DeleteDesigner.Designer.cs" />
+        <option value="$PROJECT_DIR$/ViewOrders.Designer.cs" />
+        <option value="$PROJECT_DIR$/AddAdress.Designer.cs" />
+        <option value="$PROJECT_DIR$/ModifyAdress.Designer.cs" />
+        <option value="$PROJECT_DIR$/NewOrder.Designer.cs" />
+        <option value="$PROJECT_DIR$/DeleteAdress.Designer.cs" />
+        <option value="$PROJECT_DIR$/DeleteOrder.Designer.cs" />
+        <option value="$PROJECT_DIR$/NewUser.cs" />
+        <option value="$PROJECT_DIR$/ModifyUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/FormAdmon.cs" />
+        <option value="$PROJECT_DIR$/ModifyUser.cs" />
+        <option value="$PROJECT_DIR$/DeleteUser.cs" />
+        <option value="$PROJECT_DIR$/AllUsers.cs" />
+        <option value="$PROJECT_DIR$/DeleteBusiness.cs" />
+        <option value="$PROJECT_DIR$/AddBusiness.cs" />
+        <option value="$PROJECT_DIR$/AddProduct.cs" />
+        <option value="$PROJECT_DIR$/DeleteDesigner.cs" />
+        <option value="$PROJECT_DIR$/ViewOrders.cs" />
+        <option value="$PROJECT_DIR$/ModifyAdress.cs" />
+        <option value="$PROJECT_DIR$/DeleteAdress.cs" />
+        <option value="$PROJECT_DIR$/NewOrder.cs" />
+        <option value="$PROJECT_DIR$/DeleteOrder.cs" />
+        <option value="$PROJECT_DIR$/EmptyTextBoxes.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+        <option value="$PROJECT_DIR$/LogIn.cs" />
+        <option value="$PROJECT_DIR$/AddAdress.cs" />
+        <option value="$PROJECT_DIR$/ViewOrdersNoAdmin.Designer.cs" />
+        <option value="$PROJECT_DIR$/FormNoAdmon.cs" />
+        <option value="$PROJECT_DIR$/ViewOrdersNoAdmin.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cUtHq5HDl7ShxAN3RjYE1zsOMo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SourceCode" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SourceCode.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e06c85c5-c7be-4444-b6e5-7f6f37b283af" name="Default Changelist" comment="" />
+      <created>1590594923342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590594923342</updated>
+      <workItem from="1590594953508" duration="1271000" />
+      <workItem from="1590596517785" duration="7266000" />
+      <workItem from="1590603829856" duration="1875000" />
+      <workItem from="1590606198092" duration="22120000" />
+      <workItem from="1590630198862" duration="8173000" />
+    </task>
+    <task id="LOCAL-00001" summary="New User Hecho">
+      <created>1590599801477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590599801477</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Eliminar usuario y todos los usuarios">
+      <created>1590600527318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590600527318</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hecho business y ver ordenes(interfaz)">
+      <created>1590602357284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590602357284</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Direccion y Añadir Pedido">
+      <created>1590604037344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590604037344</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Delete Order">
+      <created>1590604273075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590604273075</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Añadidos Cambio entre user control Admon">
+      <created>1590605406375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590605406375</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Codificado ModifyUser.cs">
+      <created>1590607279044</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590607279044</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Codificado DeleteUser.cs">
+      <created>1590608145994</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590608145994</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Codificado AllUsers.cs">
+      <created>1590608769289</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590608769289</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Codificado AddBusiness.cs">
+      <created>1590609253560</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590609253560</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Codificado DeleteBusiness.cs">
+      <created>1590610958597</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590610958597</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Codificado AddProduct.cs">
+      <created>1590611973928</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590611973928</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Codificado Eliminar Producto">
+      <created>1590613677967</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590613677967</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Codificado ViewOrders.cs">
+      <created>1590614075602</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590614075602</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Codificado ViewOrders.cs">
+      <created>1590614359178</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590614359178</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Codificado AddAdress.cs and ModifyAdress.cs">
+      <created>1590617840749</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590617840749</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Codificado DeleteAdress.cs">
+      <created>1590619775001</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590619775001</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Codificado NewOrder.cs">
+      <created>1590622095519</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590622095519</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Codificado DeleteOrder.cs">
+      <created>1590624525022</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590624525022</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Codigo Listo">
+      <created>1590625065123</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590625065123</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Con Excepcion y diseno">
+      <created>1590634776916</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590634776916</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Falta LiveChart si lo haces puerco">
+      <created>1590638419917</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1590638419917</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="New User Hecho" />
+    <MESSAGE value="Eliminar usuario y todos los usuarios" />
+    <MESSAGE value="Hecho business y ver ordenes(interfaz)" />
+    <MESSAGE value="Direccion y Añadir Pedido" />
+    <MESSAGE value="Delete Order" />
+    <MESSAGE value="Añadidos Cambio entre user control Admon" />
+    <MESSAGE value="Codificado ModifyUser.cs" />
+    <MESSAGE value="Codificado DeleteUser.cs" />
+    <MESSAGE value="Codificado AllUsers.cs" />
+    <MESSAGE value="Codificado AddBusiness.cs" />
+    <MESSAGE value="Codificado DeleteBusiness.cs" />
+    <MESSAGE value="Codificado AddProduct.cs" />
+    <MESSAGE value="Codificado Eliminar Producto" />
+    <MESSAGE value="Codificado ViewOrders.cs" />
+    <MESSAGE value="Codificado AddAdress.cs and ModifyAdress.cs" />
+    <MESSAGE value="Codificado DeleteAdress.cs" />
+    <MESSAGE value="Codificado NewOrder.cs" />
+    <MESSAGE value="Codificado DeleteOrder.cs" />
+    <MESSAGE value="Codigo Listo" />
+    <MESSAGE value="Con Excepcion y diseno" />
+    <MESSAGE value="Falta LiveChart si lo haces puerco" />
+    <option name="LAST_COMMIT_MESSAGE" value="Falta LiveChart si lo haces puerco" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1590637475784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590637475784" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1590637475783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590637475783" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1590637475783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590637475783" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1590637475784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590637475784" />
+    <state x="393" y="43" key="RiderGenerateDialog" timestamp="1590632371920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="393" y="43" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1590632371920" />
+    <state x="478" y="74" key="RollbackChangesDialog" timestamp="1590636414137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="478" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590636414137" />
+  </component>
+</project>
